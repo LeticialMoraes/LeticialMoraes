@@ -6,7 +6,7 @@ Aqui estão algumas atividades e projetos que desenvolvi durante meu curso de gr
 
 ![LeticialMoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticialMoraes&show_icons=true&theme=merko)
 
-### Frontend e Backend 
+### Front-end e Back-end 
 
 <div style ="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
