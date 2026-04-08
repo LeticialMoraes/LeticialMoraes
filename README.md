@@ -4,8 +4,6 @@ Aqui estão algumas atividades e projetos que desenvolvi durante meu curso de gr
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leetluanemoraes@gmail.com)
 [![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-moraes-a846ab23a/)
 
-![LeticialMoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=LeticialMoraes&show_icons=true&theme=merko)
-
 ### Front-end e Back-end 
 
 <div style ="display: inline_block"><br/>
@@ -26,6 +24,3 @@ Aqui estão algumas atividades e projetos que desenvolvi durante meu curso de gr
   <img align="center" alt="html5" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white">
 </div>
 
-### Tecnologias mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeticialMoraes&exclude_repo=github-readme-stats,LeticialMoraes.github.io/icons=true&theme=merko)
